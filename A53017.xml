@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New-years-gift for Towzer being a strange and monstrous beast sent from Pluto by his embassador Belphegor to R.L.S., having twelve heads and on every head a thousand horns : with a description of the beast and an explanation of the several names of the heads of the monster.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53017</idno>
+            <idno type="STC">Wing N813</idno>
+            <idno type="STC">ESTC R31743</idno>
+            <idno type="EEBO-CITATION">12250613</idno>
+            <idno type="OCLC">ocm 12250613</idno>
+            <idno type="VID">57073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53017)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New-years-gift for Towzer being a strange and monstrous beast sent from Pluto by his embassador Belphegor to R.L.S., having twelve heads and on every head a thousand horns : with a description of the beast and an explanation of the several names of the heads of the monster.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Harrison,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Anecdotes</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Anecdotes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57073:1"/>
+            <pb facs="tcp:57073:1"/>
+            <head>A New-Years-Gift FOR TOWZER.</head>
+            <head type="sub">Being a <hi>Strange</hi> and Monſtrous Beaſt ſent from <hi>Pluto</hi> by his Embaſſa<g ref="char:EOLhyphen"/>dor <hi>Belphegor</hi> to <hi>R. L. S.</hi> having Twelve Heads, and on every Head a Thouſand Horns; With a Deſcription of the Beaſt, and an Expla<g ref="char:EOLhyphen"/>nation of the ſeveral Names of the Heads of the Monſter.</head>
+            <p>UPon the intimation of <hi>Belphegor,</hi> at a grand Conſult held in <hi>Pluto</hi>'s Infernal Palace, the Black Hall of <hi>Erebus,</hi> of the great and many Services, a certain inſtrument of his black Highneſs had done for the good of his ſaid Highneſs, and for the benefit and advance<g ref="char:EOLhyphen"/>ment of the Affairs of his Kingdom, in diſturbance of the peace, tranquility and unity of the People where he dwells, by Talking and Writing; it being now a time, in which his ſooty Highneſs uſed to gratify his ready Servants, he cauſed <hi>Belphegor</hi> to take a certain Beaſt out of his own Stable, for a Preſent to be ſent to <hi>R.L.S.</hi> his dearly beloved inſtrument, to ſhew his gratitude, and to encourage his ſaid Inſtrument and Operator to proceed; and an Order was, by the ſaid Coun<g ref="char:EOLhyphen"/>ſel, drawn up, for a Paſs for <hi>Belphegor,</hi> to go as <hi>Pluto</hi>'s Embaſſador, to preſent this <hi>Strange</hi> infernal <hi>Hobby-Horſe</hi> (on which <hi>Pluto</hi> ſometimes uſed himſelf to ride, when he went a <hi>Maggot-hunting</hi>) on the upper Stage of the World, to his beloved <hi>R.L.S.</hi> which rare beaſt was received, by the ſaid uſe<g ref="char:EOLhyphen"/>ful inſtrument of his infernal Highneſs, with great reſpect, at the hands of his Ambaſſador <hi>Belphe<g ref="char:EOLhyphen"/>gor,</hi> acknowledging the high honour done him by many humble Remonſtrances, promiſing to con<g ref="char:EOLhyphen"/>tinue, to the utmoſt of his power, his moſt humble Servant. And having feaſted <hi>Belphegor</hi> with the fumes of <hi>Cit</hi> and <hi>Bumpkin,</hi> and ſome other the like <hi>Regalio's,</hi> and returned as a Preſent to his dark Highneſs, 3000 <hi>Obſervations</hi> in 82 Volumes, with an humble Petition for a Licencers Place in <hi>Tar<g ref="char:EOLhyphen"/>tarus,</hi> and a promiſe how diligent he would be in his Office, he diſmiſſed <hi>Belphegor</hi> to his ſatisfacti<g ref="char:EOLhyphen"/>on, and he cauſed his <hi>Strange</hi> Beaſt, or 12 headed Monſter to be locked up in his <hi>Aviary</hi> or <hi>Bird-Cage,</hi> in which he uſed to keep his harmonious, airy Notions, againſt whoſe Wires he uſed to rub the <hi>St. Gyles</hi>'s cat's Noſes, and where he cauſes him to be daily fed with <hi>Diſſenters Livers,</hi> and <hi>Proteſtant Hearts,</hi> and where he is to be ſeen by all the World for a Penny a time, twice a Week, but on <hi>Holy-days</hi> at a Groat or Six Pence.</p>
+            <p>This Beaſt is of a Motley Breed being begot by <hi>Cerberus</hi> on Pope <hi>Joan;</hi> it has much the ſhape of his Father, ſomewhat bodied like a Dog, but ſpotted like a <hi>Leopard,</hi> with the Claws of a <hi>Lion,</hi> and Tayl of a <hi>Bear;</hi> inſtead of Three Heads he has a whole Jury of Twelve, on one great Neck like a <hi>Bulls.</hi> He has ſomewhat of his Dam in ſome of his Heads, having a Maſqued Face, and a kind of a <hi>Romiſh</hi> Voice, belonging to moſt of them. He is perpetually in motion, almoſt night and day, and ever ſince the Squire has had him, he flyes about his Cage like a Squirrel: He deſires very much to have ſome of the Breed, and has ſent to the Tower, by Madam <hi>Celiers,</hi> for ſome of the Monſters there kept, that they may copulate to have Iſſue, and that he might have ſomething new to ſhew his infernal Highneſs, when he ſhall appear before him. The conditions of this Beaſt are ſomewhat <hi>Strange,</hi> for he will fawn on his Maſter like a Spaniel; but if he ſees a <hi>Whig</hi> or <hi>Proteſtant Diſſenter,</hi> he grows outragious, and ſo turbulent and reſtleſs, barking, roaring and chattering, that he is e<g ref="char:EOLhyphen"/>nough to affright one that does not know him; his heads ſleep by turns, ſome of them are ever on the Watch, making faces and grimaces, turning themſelves into ſeveral mimical poſtures and ſhapes. He is very cruel where he can fix his Paws, and will devour 10 men at a Meal, if he could come at them. He hides his Claws like a Cat, till he can ſeize his Prey, and then he ſeldom lets go without drawing Bloud. Do but whiſtle the Tune of a <hi>Parliament,</hi> he pricks up his Ears, ſtretches out his Tayl, his hair ſtands Tayl up an end, he ruffs the Wind like a Wild Bull, and runs about as if he were mad; but if you name <hi>Ignoramus,</hi> being ſome Spell that works upon him, he falls a fart<g ref="char:EOLhyphen"/>ing, that you may hear him from the upper end of <hi>Holborn</hi> as far as <hi>Wapping:</hi> He has ſeveral o<g ref="char:EOLhyphen"/>ther Qualities too tedious to rehearſe: but when he is beſt pleaſed, he runs butting with his 12000 Horns againſt every object; ſhew him but a <hi>Pamphlet,</hi> and he runs at it with might and main, his Heads are harder than a <hi>Roman</hi> Ram, and for a <hi>Wakeman</hi> Bribe he has promiſed the <hi>F.</hi> Embaſſa<g ref="char:EOLhyphen"/>dor to lend it to his Maſter to beat down the Walls of <hi>Luxenburgh;</hi> but he is firſt, as an Eſſay of his Strength, to overthrow a thing called <hi>Government</hi> at home, which is very ſtrong and well-ſet
+<pb n="2" facs="tcp:57073:2"/>and at which he is continually butting, tho as yet he has been able to effect little; ſome having expoſed againſt his Horns whole Reames of Paper, defended by Charmes wrote in Ink, and Printed upon them, which oftentimes ſets him on his Tayl, to <hi>obſerve</hi> another opportunity. His general name is <hi>Towzer,</hi> (ſome call him <hi>Trinkelo</hi>): ſome ſay he is a Mungril, ſome a Maſtiff, ſome a Bull-Dog, others that he is but a Whiffling Cur, but I have already told you his Extraction, tho I cannot tell you who firſt gave him the name of <hi>Towzer.</hi> His 12 Heads have 12 ſeveral names, and are of ſeveral Natures, which I ſhall explain to you, belonging to the Dog <hi>Towzer,</hi> under which name all are comprehended.</p>
+            <p>The firſt Head is called <hi>Hodg,</hi> and he no ſooner hears himſelf called upon, but he preſently opens his Mouth, and belches out <hi>Rogue, Raſcal, Villain, Traytor, Whig, Diſſenter, Rebel,</hi> with a thouſand the like Names: This Head <hi>Towzer</hi> made uſe of to invent <hi>Cit</hi> and <hi>Bumpkin</hi> to abuſe both City and Country; 'tis a Clowniſh name under a gentle garb, and ſeems as full of Courtſhip as of ill man<g ref="char:EOLhyphen"/>ners; can when he pleaſes, give good words, as well as ill ſpeeches; this Head has the face of a Buff<g ref="char:EOLhyphen"/>oon on one ſide, and of a States-Man on the other, and has a double row of Teeth in his mouth, with which he chews <hi>Plots,</hi> till they come out of his Mouth all Mealy, as if they had been in the Meal-Tub. Speak of a <hi>Popiſh</hi> Plot and he ſeems mealy mouthed, and licks the Five <hi>Jeſuites</hi> Speech<g ref="char:EOLhyphen"/>es into the Shape of Innonency; ſpeak of a <hi>Presbyterian Plot,</hi> and <hi>Hodge</hi> gapes and ſhews you on the Top of his Tongue in great Letters branded <hi>Forty Eight,</hi> and ſlaps a Pottle of Foam on your Face, enough to poyſon you.</p>
+            <p>The ſecond Head of <hi>Towzer</hi> is named <hi>Don Rugiero Knight of the Lying Oracle:</hi> It is a long name, having one of the Seven deadly Sins for his God-Father: This is a moſt uſeful Head, for without it <hi>Towzer</hi> could do nothing. He much admires himſelf in this vertuous Head, and values himſelf much upon his ingenuity; 'tis a kind of a <hi>Gygantine</hi> Head, erected with as much Pride and Gravity as a <hi>Bon</hi> of <hi>Spain:</hi> he is ſtill belching out Lyes, Stories, Untruths mixed with many Fables, Roman<g ref="char:EOLhyphen"/>ces, <hi>De Quevedoes,</hi> with ſome Blaſphemies intermixed. There is in it a great Talkative Devil which will not leave chattering from one end of the Week to the other, and yet hardly ſpeaks one word, of truth in all that time.</p>
+            <p>The next head is called <hi>Obſervator,</hi> (near of Kin to the Knight of the <hi>Craving Fob,</hi> which is a far more cogent argument for plaguing the world with his Pamphlets than all the Loyalty he boaſts of) and this I aſſure you the Beaſt <hi>Towzer</hi> is not a little proud of, carrying it alof in the air, tho it has but the braines of a Butter-fly. Twice a week this head ſpeaks, he has not ſpoken above 82 times in all his life, but then he claws away the <hi>Whiggs,</hi> and the <hi>Proteſtant Diſſenters,</hi> and is almoſt continually crying between whiles Bew Waw, Waw, 41, 41 have a care of 41. This <hi>Obſervator</hi> has very little, but ſharpe eyes, he can ſee through a Milſtone, and ſpye a mote no bigger then the claw of a Flea, in a <hi>Diſſenters Conſcience.</hi> This head has a <hi>Diveliſh</hi> ſwallow, ten thouſand <hi>Non-con<g ref="char:EOLhyphen"/>formiſts</hi> will not fill his Gorge, and ſwarmes of <hi>Preſbyterians</hi> are no more to him then a few Sprats in a Whales belly. He keeps a continual Watch upon the motion of a Whigs tayl: they can ſcarce piſs for him, and nothing can be done in Town or Countrey but he <hi>obſerves</hi> it: he holds this head sa high as the Dragon on <hi>Bow,</hi> and is ſomething like him, often varying his point, yet hard as Iron, not to be wrought upon by ſence or reaſon. <hi>Old Nick</hi> allows this head a penſion of <hi>Silver Sops,</hi> to make him long winded, or elſe they ſay he had long ſince leſt yelping. Upon his Tongue lies a thick foame of Malice and Revenge, which is a kind of <hi>Man-bane,</hi> and is as poyſonous as Aconite. There is a certain laughing fellow, with his two men <hi>Jeſt</hi> and <hi>Earneſt,</hi> that with ſponges wipes it from his mouth, which they ſqueeze into a <hi>Dialogue</hi> to poyſon the people.</p>
+            <p>The name of the next head is <hi>Puſs Flogger,</hi> he ſeemes to be ſomewhat younger then the reſt, yet ſome ſay it is at leaſt 40 years old, and that it was given him by the women; but of late <hi>Towzer</hi> having worried the St. <hi>Gyles's</hi> Catts, who came a Catterwawling to him, when he was grown paſt Action, they give him that name. It has a very <hi>Tyrannical</hi> look, and ſomething like <hi>Bonner,</hi> when he whipt the man in his Coale hole: Speak to him and he preſently ſpits in your face, and ſhews a row of ſharpe teeth like ſawes, and cryes, Put the <hi>Laws</hi> in <hi>Execution,</hi> whip the <hi>Diſſenting Catts,</hi> Claw' um away with <hi>Ropes</hi> and <hi>Halters, Fire</hi> &amp; <hi>Faggot:</hi> Againſt the <hi>Popiſh Succeſſor</hi> come he has got a petition drawn &amp; ready printed by <hi>N. T.</hi> to be general <hi>Whipmaſter</hi> of the <hi>Hereticks.</hi>
+            </p>
+            <p>The next head was named by <hi>Towz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> own ſelf, all the other heads put on it the title of <hi>Guide to the i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>feriour Clergy:</hi> This has a kind of a Pedants face, very proud, ſelf conceited, fooliſh, and ridiculous, and upon it a ſquare Cap; he nods gravely if he ſees a young Gown man, ſpeakes ſen<g ref="char:EOLhyphen"/>tences, and if he be a <hi>Tantivy,</hi> gently lickes him over the face: He draws Rules with his mouth, and barks continually of the Church of <hi>England,</hi> but when he gapes he ſhowes <hi>Rome</hi> in his Throat, and a <hi>Pope</hi> &amp; <hi>Cardinals</hi> in Proceſſion;</p>
+            <p>Then the 6th. head eminently ſhews it ſelf above the reſt, called the <hi>Popiſh Maſquerader.</hi> This is a very <hi>Divel</hi> in a <hi>Dublet,</hi> with a black Maske before his face, with a Canker'd tongue: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olling out of its mouth, with a thouſand little State flyes ſucking its venom, which they diſperſe buz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng in <hi>Sam's Coffee Houſe:</hi> on his forehead is writ in Capital Letters, <hi>A Church of England Chri<g ref="char:EOLhyphen"/>ſtian:</hi> he has a great <hi>Roman</hi> noſe which ſnoute he thruſts out of his Maſque. If he ſees a <hi>Jeſuit</hi> he barks, A <hi>Divine.</hi> If he ſees a <hi>Non-conformiſt Miniſter</hi> he falls a howleing <hi>Rebel, Traytor,</hi> &amp; <hi>Divel,</hi> with ſuch Helliſh &amp; hideous roars, that he out does <hi>Cerberus:</hi> He has three forked Tongues, one p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in Mode and Figure of the <hi>Church</hi> of <hi>England eſtabliſhed by Law:</hi> The other hiſſes with a gentle
+<pb n="3" facs="tcp:57073:2"/>note, againſt <hi>Rome</hi> hardly to be heard; the other howles, curſes and Banns <hi>Calvin,</hi> and his ad<g ref="char:EOLhyphen"/>herents: He is often given to belching of <hi>Presbyterian Plots,</hi> and the ſight of a certain <hi>Doctor</hi> makes him diſgorge, I know not how many things call'd <hi>Shams,</hi> to cover a <hi>Popiſh Plot.</hi> He is ſtill ſlavering at the mouth, and they ſay he wants <hi>wormeing,</hi> which none dares undertake, unleſſe the <hi>Devill</hi> would hold his Tongue with a pair of pincers, for it cuts like a ſaw, being harder then a file, ſharp as a razor, with this he licks up a Mans good name, and grinds it with Slander. He often chews the Cud like a clean beaſt: and ruminates on a word till it becomes trite: <hi>True-Proteſtant</hi> he ſends up with <hi>Hyckups,</hi> and g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pes ſometimes as if he had the Pip: He has ſix ſets of Teeth, with which he grinds the <hi>Proteſtant Pamphleteers</hi> to powder: A ſett of <hi>Proteſtant Bookſelle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> and a packet from <hi>Rome</hi> with a <hi>Proteſtant Obſervator</hi> in ſippits is an <hi>Oglio</hi> he much feeds on till he ſurfeits, and then the next day he is ſure to vomit nothing but Ink gall, and vineger: Sometimes he grins, but 'tis alwayes at ſome unlucky accident, or at a Lye of the <hi>Loyal Intelligences</hi> makeing; which he will with his foreteeth diſſect moſt artificially. His mouth is as good as a <hi>Microſcope,</hi> it will magnifie a gnat to the bigneſs of a <hi>Pegaſus,</hi> and ſhred you out an <hi>Addreſs,</hi> till 'tis heardly to be fathom'd. He is apt to bark in his ſleep, and if any body awakens him, he falls on howling &amp; diſturbs the whole Town again. Nothing will quiet him but the name of a <hi>Parliament,</hi> and then he ſhrinkes his head into his belly, and turns into the <hi>Netherlands.</hi>
+            </p>
+            <p>The next is a <hi>Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t-head</hi> with a whimſical face, ſomething like that uſually Car'vd at the end of a <hi>Violin,</hi> or a <hi>baſe Viol,</hi> and he is called <hi>Fidler:</hi> he is always makeing of mouths in <hi>Symphony;</hi> he <hi>obſerves</hi> his Crochets, and ſometimes ſings a <hi>Santas</hi> beyond <hi>Ela.</hi> He prickes up his ears, &amp; ſhakes his horns, if he heares the name of old <hi>Nol.</hi> He is given to play too much of one Time <hi>Forty One</hi> which he ſqueeks out with a hideous noyſe and turning up his noſe like a Bull after he has ſmell to the tayle of a Cow. He has all the motions of a <hi>Jack pudding,</hi> and his Chaps make as good Muſick as the <hi>gridiron</hi> &amp; <hi>tongs.</hi> He loves to be a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and pointed at, tho his voyce is grown very hearſe of late, in ſinging <hi>Abſolom</hi> &amp; <hi>Achitophel.</hi> He loves much to have a <hi>Fidleing Dialogue</hi> in his Mouth, and naturally whiſles <hi>Queſtions</hi> and <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſwers.</hi>
+            </p>
+            <p>The Title of the next is <hi>Cr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fart,</hi> and is ever makeing a noyſe like a Cart wheele that wants greaſing. He has an horrible ſtinking breath, and ſmells worſe than a Jakes that is new emptied. His Chap are blown up like a bladder, out of which he ſqueezes <hi>Papiſtical farts,</hi> to blow away the <hi>Pro<g ref="char:EOLhyphen"/>teſtant cauſe,</hi> and now and then he poures out whole peales againſt an <hi>Ignoramus Jury:</hi> He is like <hi>Boreas</hi> ever bluſtring, and looks as big at a Criminal Printer, as <hi>Aeolus</hi> himſelf. At firſt at the Cracking of his farts the people were afraid, thinking at thundered, but ſince they have been uſed to it, they are no more concerned then at Hooting of an Owle. The <hi>Hawkers</hi> (a certain kind of ſqueeking Animals) adore this head and worſhip it like the golden head of <hi>Daniels</hi> Image, gathering his farts together in paper ſheets, which they vent for braſs fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>things.</p>
+            <p>The next Head, once glorious and brisk, now hangs on o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſide, as if liſtening for the com<g ref="char:EOLhyphen"/>ing of S. <hi>George</hi> on <hi>Horſeback</hi> out of the <hi>North;</hi> This Head is called the <hi>Preſs-Inqu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſitor.</hi> He has been very ſick of late, being given over by the <hi>State-Quacks;</hi> dying Yexes appearing: But this Head being ſhaven by a Jeſuitical Razor, and a Cap of quilted Hops put Plaſter wiſe upon it, the poor thing begins to leer a little on one ſide. The Name of a <hi>Proteſtant Pri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter,</hi> or a private Preſs makes him ſtart: One Mad <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Joan</hi> is now his beſt Nurſe ſince he could do no good on the Printers Wife, for ſhe denied him a Sop in the Pan which he longed for. He hath made a League with the <hi>Pope</hi>'s Printer, and both ſometimes drink together out of the Hoof of an <hi>Aſſe:</hi> He is apt to dream, and then in his ſleep acts the part of a <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt-aſſe</hi> among the Printers, but when he awakes and finds it a Dream, he grows ſick and falls a ſpewing.</p>
+            <p>The next is an indefatigable Head that never winckes, and is called the <hi>Popes Secretary.</hi> He writes <hi>Dialogues, Appeals, Hiſtories, Obſervations,</hi> and a thouſand other things—with his Tongue; at the end of which he carries a Gooſe-quill, like the ſting of a Waſp; this he dips into a hole in his nether Chap, fill'd with <hi>Infernal Ink,</hi> mixt with Venom of <hi>Toads, Spiders,</hi> and <hi>Aſps,</hi> and then draws <hi>Characters, Satyrs,</hi> and <hi>Obſervations</hi> on <hi>Diſſenters.</hi> He is an Head of Diſpatch; and will do more in an hour, than <hi>Coleman</hi> could in three moneths. He was born with his Gooſe-quill in his mouth, which is perpetually wagging, and writes faſter than he who wrote with his feet. He is to dictate for the <hi>Secretary</hi> of <hi>State,</hi> when the <hi>Pope</hi> ſets up his Throne in the <hi>Weſtern Iſland,</hi> and till then he is fain to write for a ſmall Penſion. He employs ſeveral under-Scribes that are lodged in a certain Office called <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wgate,</hi> who ſometimes turn his <hi>Rayling</hi> into <hi>Dogril.</hi>
+            </p>
+            <p>The next Head of this Monſter is of Kin to the laſt, and is called the <hi>Diſſenters Regiſter.</hi> He is a very filthy Beaſt, and has a very black Tongue, foul with licking of <hi>Sinks, Dunghills, Jakes,</hi> and <hi>Leiſtals;</hi> He lives upon <hi>Carrion;</hi> and is ſo greedy, that with his Teeth he d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs perſons out of their Graves: He ſeeks after Rottenneſs; and a wicked or unclean ſaying makes him laugh again; He has an excellent memory, and can quote you all the abominations ſince <hi>Adam.</hi> He has them by rote, and can ſing them <hi>Dialogue</hi>-wiſe: 'Tis a ſnarling Cur, and ſnaps at every Body. He underſtands the Language of the Beaſt, and would have Obſcenity to be placed among the Liberal Sciences; he has for all that but an <hi>hanging look,</hi> and begins to be troubled with a <hi>Le<g ref="char:EOLhyphen"/>thargy.</hi>
+            </p>
+            <p>The laſt Head looks almoſt like an <hi>Iriſh Evidence,</hi> and <hi>ſquints</hi> as bad upon the Peace of the Go<g ref="char:EOLhyphen"/>vernment; 'Tis a bold, ſawcy, impudent, malepert Head; and is called <hi>Tory:</hi> He makes a rumbling
+<pb n="4" facs="tcp:57073:3"/>noiſe like a Wheel-barrow: his mouth is full of Oaths and Curſes; and <hi>God dam me</hi> is his hourly <hi>Letany;</hi> He has a prodigious mouth, and a great head, which is ſtufft with <hi>Rodomontadoes; Whig</hi> is his Eternal Enemy which he hates as much as <hi>Cain</hi> did his Brother, and whom he would devour if he could come at him. He is a very carnivorous <hi>Canibal;</hi> and would make an <hi>Iriſh</hi> Meal of all the <hi>Whigs</hi> in <hi>Chriſtendom.</hi> Name <hi>Geneva</hi> and he grows mad, and troubleſom to all his Bro<g ref="char:EOLhyphen"/>ther-Heads: <hi>Rome</hi> is the onely <hi>Antidote</hi> for his Diſtemper, which he adores as the Elephant does the Moon. He loves neither <hi>Parliaments,</hi> nor <hi>Juries;</hi> and cries out, the King is as Abſolute as the great Turk. He is of a Torrid and cruel Aſpect, yet they ſay he is a meer Coward. He loves not <hi>Magna Charta.</hi> The Names of <hi>Property, Rights,</hi> and <hi>Privileges</hi> of the <hi>People,</hi> will put him into a fit of yelling not <hi>A. P—t.</hi> for Sr. <hi>R. Kt.</hi> and <hi>Bt.</hi> cauſe that's to be kept private un<g ref="char:EOLhyphen"/>til a meet ſeaſon to divulge it (which is not to be ſtopped by any means, but by ſlinging a Sirre<g ref="char:EOLhyphen"/>verence into his mouth,) and then he falls on ſputtering as if you had done him an injury. He loves to gulp down Healths, and then to belch up Faction: There is a flame ſteaming from his mouth, which he calls the <hi>Bane</hi> of <hi>Hereticks.</hi> He makes a great noiſe, and looks always as if he was drunk: He would be thought to roar like a Lyon, but his Voyce reſembles the Braying of an <hi>Aſſe:</hi> He loves noiſe and confuſion, and greedily deſires to ſet the World together by the Ears; He cries up the Biſhops, and the <hi>Church</hi> of <hi>England,</hi> but ſecretly receives Sops from <hi>Jeſuites</hi> and <hi>Prieſts,</hi> and hopes onely in the <hi>Pope</hi> and a <hi>Popiſh Succeſſour.</hi>
+            </p>
+            <lg>
+               <l>This <hi>TOWZER</hi> is, who is a Monſter grown;</l>
+               <l>Has now Twelve Heads, who once had half a one:</l>
+               <l>At firſt appeared like a Cub of Bear or Ape;</l>
+               <l>But now you ſee's lick'd himſelf to ſhape:</l>
+               <l>Sure, 'Tis monſtrous or 'tis <hi>STRANGE</hi> at leaſt,</l>
+               <l>So many Heads ſhould ſtand upon one <hi>BEAST.</hi>
+               </l>
+               <l>One <hi>Halter</hi> once he broke, and ran away,</l>
+               <l>Two <hi>Halters</hi> now will hardly make him ſtay;</l>
+               <l>Take up the <hi>Proteſtant</hi> Puſs, and ſafely houſe her,</l>
+               <l>For on hot ſcent runs the Hell hound Towzer.</l>
+            </lg>
+            <div type="postscript">
+               <head>POST-SCRIPT.</head>
+               <p>That we may fully inform the Reader how Sutable this great preſent is in Humours and Qua<g ref="char:EOLhyphen"/>lities to the Perſon which the <hi>Beaſt</hi> is preſented unto; I have recited this following deſcription which was ſent after him, during the Seſſion of the laſt Parliament, that ſat at <hi>Weſtminſter.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A HUE and CRY</head>
+               <p>AFter a <hi>Strange</hi> old Yorkiſh-Tike, full of Black and Blew, Red and Yellow Spots, of a Motley, Dun, Brindle, Ill-livered Colour, neither Maſtiff, Mungrel, Tumbler, Lap-Dog, nor Setter, Bull-Dog or Bear-Dog, Woolf-Dog or Sheep-biter, But all of them: Of a <hi>Strange</hi> amphibious Nature, lives on land or on water, in Court or in Kennel, run away from his Maſter about the twenty ſixth — ſeen on Saturday laſt behind a Coach between <hi>Sam's Coffe-houſe,</hi> and Madam <hi>Celliers.</hi> Whoever hath or ſhall take him up, have eſpecial care of him, (unleſs you know his ill qualities) for he has a thouſand <hi>Dog-tricks</hi> (viz.) to <hi>fetch</hi> for the <hi>Papiſts, carry</hi> for the <hi>Proteſtants, whine</hi> to the <hi>King, dance</hi> to <hi>Noll's fiddle, fawn</hi> on the <hi>Courtier, leap</hi> at their <hi>Cruſts,</hi> wag his tail at all bitches, hunt counter to the Plot, <hi>Tongue-Pad</hi> the Evidence, and cringe to the Crucifix; but above all this, he has one damn'd old trick of ſlipping the Halter: If there be any that can give notice of this dangerous Cur, to the men in <hi>Authority</hi> (who hath been ſeveral dayes in Grand Queſt after him) or bring him (if he be not alrea<g ref="char:EOLhyphen"/>dy) to the ſign of the Popes Demi-Culverin, next door to the Maſquerade Committee, in the Street of <hi>St. Lud.</hi> or to the <hi>Tantivy Abhorrers,</hi> at the Levitical-Club-houſe, in Ave-Mary-Alley, ſo that he may be tyed up from his meat, for the good of the Publick, he will do his Country good ſervice, the Prote<g ref="char:EOLhyphen"/>ſtants Right, the Law Juſtice, the K. a kindneſs, undeceive the Church, and himſelf a mighty favour in obtaining the marks Royal, of a Loyal true Engliſh man, a right good Proteſtant, and a hearty lover of his K. and Country; all which ſhall be paid him down (on the ſpot) for his honeſt care and pains.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E, Harriſon,</hi> 1682.</p>
+            <pb facs="tcp:57073:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
